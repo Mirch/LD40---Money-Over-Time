@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 99f34e2212e01604da21ba743261655d
+timeCreated: 1512258833
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: beer money
+  fontNames:
+  - beer money
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
